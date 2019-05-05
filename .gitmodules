@@ -1,0 +1,3 @@
+[submodule "pay-service-api"]
+	path = pay-service-api
+	url = https://github.com/wsmhz/pay-service-api.git
